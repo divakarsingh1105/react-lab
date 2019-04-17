@@ -1,2 +1,0 @@
-# react-lab
-React Lab
